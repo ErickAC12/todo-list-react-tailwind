@@ -1,1 +1,1 @@
-# todo-list-react-tailwind
+# Todo list made with React and Tailwind
